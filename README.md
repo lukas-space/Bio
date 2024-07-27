@@ -8,6 +8,7 @@ Siemanko Uszanowanko Ja Jestem Lukas!
 ## 🧧 Co robie
 <hr>
 <pre>
+📕 Technik 4 lata
 🌐 Co Robie Zajmuje Sie Rajmc.pl ranga (technik)
 💻 Cos tam robie z ui na C sharp
 </pre>
